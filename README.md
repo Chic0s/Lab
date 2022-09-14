@@ -1,6 +1,6 @@
 <h2 class="center">Création d'un lab</h2>
 
-<h3 style="font-style: italic;">Ce laboratoire permettra de faire de créer un RDP et de pouvoir faire différents tests..</h3>
+<h3 style="font-style: italic;">Ce laboratoire permettra de créer un ou plusieurs RDP et de pouvoir faire différents tests..</h3>
 
 <p>
 Il existe des solutions gratuites pour émuler un OS. (Virtual Box, VMware)
